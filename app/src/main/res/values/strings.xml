@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewLoja</string>
+    <string name="teste">teste</string>
+
+    <string-array name="colorsspinners">
+        <item>Seleciona a Cor</item>
+        <item>white</item>
+        <item>green</item>
+        <item>yellow</item>
+        <item>black</item>
+        <item>blue</item>
+    </string-array>
+
+</resources>
